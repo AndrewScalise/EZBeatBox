@@ -28,3 +28,8 @@ beatbox.java
 How to run file
 --------------------
 Run the beabox.java file to run the program
+```
+
+ScreenShots
+---
+![Working Project](https://github.com/AndrewScalise/ezbeatbox/images/screenshot.png)
